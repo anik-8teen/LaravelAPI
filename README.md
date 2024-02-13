@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Customer Invoice Management System
+<pre>Customer Invoice Management System
 
 Our project is a comprehensive Customer Invoice Management System developed using Laravel, a powerful PHP web application framework. This system provides seamless CRUD (Create, Read, Update, Delete) operations for managing customer information and invoices
 Key Features:
@@ -26,3 +26,4 @@ Laravel Framework
 PHP
 MySQL Database
 RESTful API
+</pre>
